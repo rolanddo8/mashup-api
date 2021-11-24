@@ -25,11 +25,11 @@ This is a Application is built for visitors and local people for discorvering th
 
 
 ### Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
 * [React.js](https://reactjs.org/)
 * [Express.js](https://expressjs.com/)
+* Restaurant Adivisor API
+* Weather API
+* Google Map API
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
