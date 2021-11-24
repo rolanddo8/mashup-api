@@ -7,11 +7,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-
   <h3 align="center">Mashup-API Application</h3>
-
-  <p align="center">
-    An awesome README template to jumpstart your projects!
 </div>
 
 
@@ -40,7 +36,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
- <img src="main_page.png" alt="Logo" width="80" height="80">
+ <img src="main_page.png" alt="Logo" width="580" height="580">
 
 This is a Application is built for visitors and local people for discorvering the local restaurants and also the local weather status.
 
