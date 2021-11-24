@@ -18,7 +18,7 @@
 
  <img src="main_page.png" alt="Logo" width="780" height="580">
 
-This is a Application is built for visitors and local people for discorvering the local restaurants and also the local weather status.
+This is an Application is built for visitors and local people to discovering the local restaurants and also the local weather status.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
